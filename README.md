@@ -21,7 +21,7 @@ Cada uno de estos laboratorios están diseñados para ofrecerte una experiencia 
 ### - [Práctica 3.3. Evaluación de ventas con KPI en Power Pivot.](./Capítulo3/README.md)
 ### - [Práctica 3.4. Unificación de nombres en una celda utilizando Power Query.](./Capítulo3/README.md)
 ### - [Práctica 3.5. Segmentación inteligente de clientes con Power Query.](./Capítulo3/README.md)
-    - ⏱️ **Duración estimada**: 65 minutos.
+   - ⏱️ **Duración estimada**: 65 minutos.
       
 ### - [Capítulo 4: Ejercicios.](./Capítulo4/README.md)
       
