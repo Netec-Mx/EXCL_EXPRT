@@ -30,6 +30,11 @@ Ana quiere consolidar toda su información en un Dashboard interactivo que le pe
 ## Duración aproximada:
 - 25 minutos.
 
+---
+
+**[⬅️ Atrás](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo6/)** | **[Lista General](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo1/)**
+
+---
 
 ## Instrucciones 
 
@@ -227,3 +232,8 @@ Paso 8. Vamos con la conexión del segmentador de cuatrimestre que quedaría de 
 
 ![img190](../images/img190.png)
 
+---
+
+**[⬅️ Atrás](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo6/)** | **[Lista General](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo1/)**
+
+---
