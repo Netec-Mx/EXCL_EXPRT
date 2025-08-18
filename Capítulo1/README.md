@@ -13,7 +13,7 @@ Al finalizar la práctica, serás capaz de:
 
 ---
 
-**[Lista general 🗂️](https://netec-mx.github.io/PBI_INT_Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_2.html)**
+**[Lista general 🗂️](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo2/)**
 
 ---
 
@@ -91,3 +91,9 @@ Paso 4. Abre el archivo, ingresa la contraseña y coloca un comentario en la col
 - El archivo completo no podrá abrirse o editarse sin contraseña.
 
 ![img10](../images/img10.png)
+
+---
+
+**[Lista general 🗂️](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo2/)**
+
+---
